@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名 郝子嘉
+#### 学历 大学本科
+#### 学校 石家庄铁道大学
+#### 邮箱 991002716@qq.com
+#### 地址 河北省石家庄辛集市旧城镇赵李家庄村
 
-You can use the [editor on GitHub](https://github.com/hzj-hzj1/hzj-hzj1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 学习方向
+- 软件
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 最新学习
+- 知识图谱
 
-### Markdown
+### 所会编码语言
+- C语言
+- C++
+- Java
+- hadoop等
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 荣誉奖励
+- 奖学金
 
-```markdown
-Syntax highlighted code block
-
-# 个人信息
-## 姓名郝子嘉
-### 学历 本科
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hzj-hzj1/hzj-hzj1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 任务研究
+#### 石家庄铁道大学（2021.4.5-2021.7.3）
+- **任务1**
+第届届中国软件杯 构建民航业知识图谱并实现语义查询
+- **任务2**
+第十届中国软件杯 A9-基于国产操作系统的人工智能应用
