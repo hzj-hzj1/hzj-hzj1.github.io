@@ -8,7 +8,7 @@
       <p><b>地址：河北省石家庄辛集市旧城镇赵李家庄村</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG20200321071523_mh1624586018414.jpg" width="100%">      % 插入证件照代
+      <img src="/haozijia.jpg" width="100%">      % 插入证件照代
     </td>
   </tr>
 </table>
